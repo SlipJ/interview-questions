@@ -1,4 +1,4 @@
-package com.zoominfo.interview;
+package com.solution.interview;
 
 import java.util.ArrayList;
 import java.util.Collections;
