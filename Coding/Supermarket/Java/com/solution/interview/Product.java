@@ -1,4 +1,4 @@
-package com.zoominfo.interview;
+package com.solution.interview;
 
 public class Product {
     public final String name;

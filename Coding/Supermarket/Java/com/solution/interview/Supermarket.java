@@ -1,4 +1,4 @@
-package com.zoominfo.interview;
+package com.solution.interview;
 
 import java.util.HashMap;
 import java.util.Map;
