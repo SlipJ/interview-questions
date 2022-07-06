@@ -1,4 +1,4 @@
-# com.zoominfo.interview.Supermarket
+# Supermarket
 
 ### Story
 We want to open a supermarket similar to Amazon Go.
